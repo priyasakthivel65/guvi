@@ -1,0 +1,21 @@
+p=(input())
+if(p=="I"):
+  print("1")
+elif(p=="II"):
+  print("2")
+elif(p=="III"):
+  print("3")
+elif(p=="IV"):
+  print("4")
+elif(p=="V"):
+  print("5")
+elif(p=="VI"):
+  print("6")
+elif(p=="VII"):
+  print("7")
+elif(p=="VIII"):
+  print("8")
+elif(p=="IX"):
+  print("9")
+elif(p=="X"):
+  print("10")
