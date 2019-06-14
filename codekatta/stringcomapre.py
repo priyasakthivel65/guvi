@@ -1,0 +1,9 @@
+x,y=input().split()
+v=len(x)
+d=len(y)
+if(v==d):
+  print(y)
+elif(v>d):
+  print(x)
+else:
+  print(x)
